@@ -64,7 +64,7 @@ Si deseas ejecutar alguno de los programas, puedes seguir estos pasos en tu term
 3.  **Ubica el ejercicio que deseas compilar:**
     Por ejemplo, para compilar un archivo dentro de `Unidad 1`:
     ```bash
-    cd "Unidad 1"
+    cd "Entrada_y_salida"
     ```
 
 4.  **Compila el archivo C++ usando g++:**

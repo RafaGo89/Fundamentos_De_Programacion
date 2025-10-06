@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  Este repositorio contiene una colección de programas y ejercicios desarrollados durante el curso de Fundamentos de Programación. El objetivo es aplicar conceptos básicos y estructuras de datos utilizando el lenguaje C++.
+  Este repositorio contiene una colección de programas y ejercicios desarrollados durante el curso de Fundamentos de Programación que tomé en CUCEA. El objetivo es aplicar conceptos básicos y estructuras de datos utilizando el lenguaje C++.
 </p>
 
 <p align="center">
@@ -53,7 +53,7 @@ Si deseas ejecutar alguno de los programas, puedes seguir estos pasos en tu term
 
 1.  **Clona el repositorio:**
     ```bash
-    git clone [https://github.com/RafaGo89/Fundamentos_De_Programacion.git](https://github.com/RafaGo89/Fundamentos_De_Programacion.git)
+    git clone https://github.com/RafaGo89/Fundamentos_De_Programacion.git
     ```
 
 2.  **Navega al directorio del proyecto:**

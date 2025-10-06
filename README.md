@@ -22,20 +22,30 @@ Este proyecto fue creado como parte de mi formación académica en la carrera de
 
 El contenido está organizado en directorios que corresponden a cada unidad temática del curso. Cada carpeta contiene los archivos de código fuente `.cpp` correspondientes.
 
+```
 .
 ├── 📄 .gitignore
 ├── 📄 README.md
-├── 📂 Unidad 1/
-│   ├── 📄 ejercicio_1.cpp
-│   └── 📄 ejercicio_2.cpp
-├── 📂 Unidad 2/
-│   ├── 📄 ...
-├── 📂 Unidad 3/
-│   ├── 📄 ...
-├── 📂 Unidad 4/
-│   ├── 📄 ...
-└── 📂 Unidad 5/
-└── 📄 ...
+├── 📂 Ejemplos del profe/
+├── 📂 Unidad_2_Estructuras_de_Control/
+├── 📂 Prácticas/
+│   ├── 📂 Entrada_y_salida/
+│   │
+│   ├── 📂 Estructura_de_control_IF/
+│   │
+│   ├── 📂 IF_con_operadores_logicos/
+│   │
+│   ├── 📂 Estructura_de_control_switch/
+│   │
+│   ├── 📂 Ciclos_while/
+│   │
+│   ├── 📂 Ciclos_for/
+│   │
+│   ├── 📂 For_anidado/
+│   │
+│   └── 📂 Arreglos/
+└── 📂 Proyecto_final/
+```
 
 ## 🛠️ ¿Cómo Usar este Repositorio?
 
@@ -71,6 +81,10 @@ Si deseas ejecutar alguno de los programas, puedes seguir estos pasos en tu term
 ## 🔧 Herramientas Utilizadas
 
 * **[C++](https://isocpp.org/)**: Lenguaje de programación principal utilizado para todos los ejercicios.
+  
+> **Nota sobre el Entorno de Desarrollo 📝**
+>
+> Los ejercicios de este repositorio fueron desarrollados utilizando el IDE **Code::Blocks**. Si tienes este entorno, puedes abrir los archivos `.cpp` directamente, agregarlos a un proyecto y ejecutarlos usando las opciones de "Build and Run" del propio IDE.
 
 ---
 
